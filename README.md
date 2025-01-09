@@ -1,6 +1,6 @@
 ﻿# Nur Mohammad 🌟  
 This is the showcase of my achievements, projects, and interests as a programmer and web developer.
-## *Know Me**
+# *Know Me*
 - Aspiring software engineer with a strong foundation in programming languages including  *C, C++ and JavaScript*, and proficiency in web technologies such as *HTML, React, CSS, Node.js, Express.js, MySQL and MongoDB*.Seeking an entry-level position to kick-start my career in software development, where I can apply my skills to contribute to innovative projects and build efficient, user-friendly applications. I am eager to learn from experienced professionals and collaborate with a dynamic team to tackle complex challenges. Passionate about continuous improvement and dedicated to delivering high-quality software solutions that make a meaningful impact in the tech industry.
 
 ## 🌟 **Highlights*
