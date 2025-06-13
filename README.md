@@ -20,6 +20,7 @@ This is the showcase of my achievements, projects, and interests as a programmer
 ### *Projects*
 - **[Portfolio Website](https:nurmohammad.vercel.app)**: A personal website to showcase my skills and work.  
 - **[Kormo App](https://kormo-3cade.web.app)**: This is a job posting and bidding platform built with React and styled using Tailwind CSS. The application allows employers to post job listings and freelancers to bid on jobs, making it easy to manage job opportunities and submissions.
+- **[BlogApp](https://nursblog.vercel.app/)**: BlogApp is a full-stack MERN application where users can create, edit, view, and delete blog posts. It features user authentication, blog search, view count tracking, and a beautifully designed responsive UI.
 - **[BlogPost](https://blogpost957.netlify.app/)**: BlogPost is a React web application designed for browsing and bookmarking blogs. Users can explore various blog posts, read them in detail, and save their favorite ones for easy access.
 
 
